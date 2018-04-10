@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">International festival BlockPartyBeta</string>
+    <string name="countdown">We have </string>
+    <string name="countdownleft"> Count down to Block Party!!</string>
+    <string name="block_party_prompt"> International Festival Block Party</string>
+    <string name="information_desk">Information Desk</string>
+    <string name="info_desk_description"> The information desk is here to help you with anything</string>
+    <string name="food_truck_display"> Food Truck</string>
+    <string name="food_truck_infor"> There will be 8 food trucks available for the block party. The food trucks are from different cuisine across the world.</string>
+    <string name="booth4"> There are 4 booth selling alcoholic beverages, water, and other refreshments.  </string>
+    <string name="boothnames">Booths</string>
+    <string name="dance_stagedisplay">Dance Stage</string>
+    <string name="dance_stage_info">There would be a dance stage at the block party, displaying cultural dances from around the world </string>
+    <string name="aboutus">About Us</string>
+    <string name="aus_display">International Focus is an organization that originated out of
+        cooperation between local ethnic groups, the City of Raleigh, and the Raleigh Sister
+        Cities organization. After the first successful International Festival in 1986,
+        International Focus was established to support the continued implementation of The
+        International Festival of Raleigh. At that time, and still today, the need for a
+        celebration of culture and the arts has proven essential to thousands of individuals
+        in the area. The International Festival has continued to support local artists, to
+        join in a celebration of tradition through artistic expressions such as dance, cuisine,
+        calligraphy, and demonstrations. Each year, it is our pleasure to bring lively
+        entertainment and education to the City of Raleigh and our supporters throughout the
+        region, to encourage international culture and art. Our efforts at the most recent
+        International Festival in 2015 resulted in over 28,000 individuals coming together
+        to support and appreciate 58 ethnic groups, for three days, under one roof.
+</string>
+
+
+
+
+</resources>
